@@ -9,4 +9,4 @@ Our group had to design a compact device which helps our client with hand tremor
 
 ## Designs
 
-![alt text](https://raw.githubusercontent.com/Joydeepgill/GNG2101-Summer-2019/master/path/to/image 5.png)
+![alt text](https://raw.githubusercontent.com/Joydeepgill/GNG2101-Summer-2019/master/image 5.png)
