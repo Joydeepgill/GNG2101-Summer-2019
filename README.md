@@ -1,6 +1,6 @@
 # GNG2101-Summer-2019 
 
-##Problem
+## Problem
 Our client has Parkinsons disease and experiences hand tremors, which makes it difficult for him to use 
 touchscreens. 
 
