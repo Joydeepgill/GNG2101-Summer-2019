@@ -7,6 +7,8 @@ touchscreens.
 ## Solution
 Our group had to design a compact device which helps our client with hand tremors to use touch screens. 
 
-## Possible Solution 
+## Designs
+
+
 
 ### 
