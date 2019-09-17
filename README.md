@@ -10,3 +10,5 @@ Our group had to design a compact device which helps our client with hand tremor
 ## Designs
 
 <img src = "https://imgur.com/rEN4Mgt.jpg"/>
+
+<img src = "https://imgur.com/XSANN9Q"/>
