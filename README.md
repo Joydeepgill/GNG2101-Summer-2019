@@ -11,4 +11,4 @@ Our group had to design a compact device which helps our client with hand tremor
 
 <img src = "https://imgur.com/rEN4Mgt.jpg"/>
 
-<img src = "https://imgur.com/XSANN9Q.jpg" alt="{{ include.description }}"/>
+<img src = "https://imgur.com/XSANN9Q.jpg" alt="include.description"/>
