@@ -9,8 +9,10 @@ Our group had to design a compact device which helps our client with hand tremor
 
 ## Designs
 
-<img src = "https://imgur.com/rEN4Mgt.jpg"/>
-
 | ![stylus.jpg](https://imgur.com/rEN4Mgt.jpg) | 
 |:--:| 
-| *Stylus with retracting tip* |
+| *Stylus* |
+
+| ![stylus.jpg](https://imgur.com/XSANN9Q.jpg) | 
+|:--:| 
+| *Stylus with Retracting Tip* |
