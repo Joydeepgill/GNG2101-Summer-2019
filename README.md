@@ -22,3 +22,6 @@ Our group had to design a compact device which helps our client with hand tremor
 | *Stylus with Retracting Tip* |
 
   This design is inspired by mechanical pencils that have “unbreakable” tips. Normally, an inner tip made of non-conducting material extends beyond the outer layer. When the stylus’ tip is pressed against a surface and enough pressure is applied downwards, the tip retracts into the stylus. Then the conducting part on the outer layer makes contact with the screen. The inner tip immediately pops out when the downward pressure is released. Alternatively, this design can use a button on the side of the stylus to retract the tip.[TODO - Reword]
+
+## First Prototype 
+
